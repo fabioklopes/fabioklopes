@@ -47,7 +47,7 @@
   <h3>💻 Linguagens</h3>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </div>
@@ -77,7 +77,7 @@
   <h3>🔧 Ferramentas & Plataformas</h3>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=007ACC" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
 </div>
@@ -87,16 +87,13 @@
 
 <div align="center">
   <a href="https://github.com/fabioklopes/bibliovirtual">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabioklopes&repo=bibliovirtual&theme=tokyonight&hide_border=true&show_owner=true" alt="Bibliovirtual" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=fabioklopes&repo=bibliovirtual&theme=tokyonight&hide_border=true&show_owner=true" alt="Bibliovirtual" />
   </a>
   <a href="https://github.com/fabioklopes/meteoapp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabioklopes&repo=meteoapp&theme=tokyonight&hide_border=true&show_owner=true" alt="MeteoApp" />
-  </a>
-  <a href="https://github.com/fabioklopes/agencia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabioklopes&repo=agencia&theme=tokyonight&hide_border=true&show_owner=true" alt="Agência" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=fabioklopes&repo=meteoapp&theme=tokyonight&hide_border=true&show_owner=true" alt="MeteoApp" />
   </a>
   <a href="https://github.com/fabioklopes/academia_v2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabioklopes&repo=academia_v2&theme=tokyonight&hide_border=true&show_owner=true" alt="Academia v2" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=fabioklopes&repo=academia_v2&theme=tokyonight&hide_border=true&show_owner=true" alt="Academia v2" />
   </a>
 </div>
 
@@ -118,11 +115,6 @@
       <td>JavaScript · HTML · CSS</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/fabioklopes/agencia"><b>🏢 Agência Humaitá</b></a></td>
-      <td>Sistema de controle da Agência de Informações Humaitá</td>
-      <td>Node.js · Express · EJS · MySQL · Bootstrap</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/fabioklopes/academia_v2"><b>🎓 Academia v2</b></a></td>
       <td>Sistema de gerenciamento de academia</td>
       <td>Handlebars · JavaScript · Python</td>
@@ -134,26 +126,26 @@
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabioklopes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=2E97F7&icon_color=FFD700&rank_icon=github" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioklopes&theme=tokyonight&hide_border=true&layout=compact&title_color=2E97F7" alt="Top Languages" width="41%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=fabioklopes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=2E97F7&icon_color=FFD700&rank_icon=github" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=fabioklopes&theme=tokyonight&hide_border=true&layout=compact&title_color=2E97F7" alt="Top Languages" width="41%" />
+</div>
+
+<!-- ===================== RESULTADO DO PERFIL ===================== -->
+<h2 align="center">📊 Resumo do Perfil</h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabioklopes&theme=tokyonight" alt="Profile Summary" width="95%" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabioklopes&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FFD700&ring=2E97F7&currStreakLabel=2E97F7" alt="GitHub Streak" />
 </div>
 
-<!-- ===================== TROFÉUS ===================== -->
-<h2 align="center">🏆 Conquistas</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fabioklopes&theme=tokyonight&no-bg=true&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
 <!-- ===================== ATIVIDADE RECENTE ===================== -->
 <h2 align="center">📈 Atividade Recente</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabioklopes&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+  <img src="https://github-activity-chart.vercel.app/graph?username=fabioklopes&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" width="95%" />
 </div>
 
 <!-- ===================== GRÁFICO DE COBRINHA ===================== -->
