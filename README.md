@@ -44,7 +44,8 @@
 <h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
 
 <div align="center">
-  <h3>💻 Linguagens</h3>
+  <h3>Linguagens</h3>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
@@ -53,7 +54,8 @@
 </div>
 
 <div align="center">
-  <h3>⚙️ Backend & Frameworks</h3>
+  <h3>Backend & Frameworks</h3>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge&logo=ejs&logoColor=white" alt="EJS" />
@@ -62,19 +64,21 @@
 </div>
 
 <div align="center">
-  <h3>🗄️ Banco de Dados</h3>
+  <h3>Banco de Dados</h3>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
 
 <div align="center">
-  <h3>🎨 Frontend & UI</h3>
+  <h3>Frontend & UI</h3>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" alt="Font Awesome" />
 </div>
 
 <div align="center">
-  <h3>🔧 Ferramentas & Plataformas</h3>
+  <h3>Ferramentas & Plataformas</h3>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=007ACC" alt="VS Code" />
@@ -84,18 +88,6 @@
 
 <!-- ===================== PROJETOS DESTACADOS ===================== -->
 <h2 align="center">🚀 Projetos em Destaque</h2>
-
-<div align="center">
-  <a href="https://github.com/fabioklopes/bibliovirtual">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=fabioklopes&repo=bibliovirtual&theme=tokyonight&hide_border=true&show_owner=true" alt="Bibliovirtual" />
-  </a>
-  <a href="https://github.com/fabioklopes/meteoapp">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=fabioklopes&repo=meteoapp&theme=tokyonight&hide_border=true&show_owner=true" alt="MeteoApp" />
-  </a>
-  <a href="https://github.com/fabioklopes/academia_v2">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=fabioklopes&repo=academia_v2&theme=tokyonight&hide_border=true&show_owner=true" alt="Academia v2" />
-  </a>
-</div>
 
 <div align="center">
   <table>
